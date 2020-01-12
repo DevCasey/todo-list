@@ -1,8 +1,18 @@
 body {
-  background-color: grey;
+  background-color: #24292e;
+  height: 100%;
+  width: 100%;
 }
 
-#root {
+.main {
   display: flex;
   justify-content: center;
+  align-items: center;
+  margin-top: 50px;
 }
+
+button {
+  margin-left: 10px;
+}
+
+
